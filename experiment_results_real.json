@@ -1,0 +1,14 @@
+[
+  {
+    "points_per_class": 5,
+    "best_miou": 0.3630077352714087
+  },
+  {
+    "points_per_class": 20,
+    "best_miou": 0.3821283669477723
+  },
+  {
+    "points_per_class": 50,
+    "best_miou": 0.3414277924376835
+  }
+]

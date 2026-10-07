@@ -1,0 +1,14 @@
+[
+  {
+    "points_per_class": 3,
+    "final_miou": 0.31082655957420635
+  },
+  {
+    "points_per_class": 10,
+    "final_miou": 0.4477880993288859
+  },
+  {
+    "points_per_class": 30,
+    "final_miou": 0.4558147710743923
+  }
+]
